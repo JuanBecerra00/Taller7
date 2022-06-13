@@ -1,4 +1,4 @@
-// Mary Rose's JavaScript Homework
+// Mary Rose's JavaScript Homework modificado
 
 // 1. Write an if/else statement
 var APPLE_QUANTITY = 5;
